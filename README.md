@@ -1,7 +1,6 @@
 # Documentation
-
-Documentation for all projects made by the LeavesMC team.
-
+彻底无语了，算是看清楚熟人和普通路人的区别了  
+有缘再见了🔪
 ## Getting Started
 
 How to get docs running on your local machine for development.
